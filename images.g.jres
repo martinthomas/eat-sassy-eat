@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIiAgACACAiISIiAiIiIiIRIhICICIiIvEiISIAIiIiEiISIgAAIiIiIiEiAAAgIhIiEiIAACIi8S8hIgAgIiIRIhICAAIAIiEiIgAAAAAAIiICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Fushca the Fireball"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEREAAAAAABEREQEAAAAQEREREQAAABERERERAQAAEREREREBAAAREREREQEcHdERERERARwAEREREREBHAHREREREQEAABARERERAAAAABEREQEAAAAAEBERAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Oliver the orange"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADw/w8AAAAAAH939wAAAADwd3d3D///D/B3f3cPH3UP8P/wd/dfdf8AAPB39393fw8AAH/38Hd/9wAAfw/w/393D/B3DwAA8HcP8HcPAADwd/fwdw8AAAB/93/3AAAAAH93dw8AAAAA8Hf3AAAAAAAA/w8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Sassy the snake"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
